@@ -1,4 +1,6 @@
 # EjerciciosJS
+
+Requisito tener instalado NodeJS, un editor de codigo con terminal.
 Ejercicios JS y NodeJS
 
 Para ejecutar los ejercicios debe abrir una consola orientada al proyecto o bien la terminal. 
